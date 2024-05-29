@@ -1,5 +1,4 @@
-Hi, I’m Kyle and
-I’m interested in Data & Product
+Interested in Data & Product
 
 <!---
 kfix97/kfix97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
