@@ -1,6 +1,6 @@
-Interested in Data & Product
+Interested in Data & Product & Solution Engineering/Architecture
 
-6 years experience in Data Engineering & Data Science, Software Engineering, Technology Strategy, and Private Equity Product Advisory
+6 years experience in Data Engineering & Data Science, API Development & Integration, Technology Strategy, and Private Equity Product Advisory
 
 <!---
 kfix97/kfix97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
